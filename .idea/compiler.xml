@@ -18,7 +18,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lab08Git" target="18" />
-      <module name="labGit" target="18" />
       <module name="untitled" target="18" />
     </bytecodeTargetLevel>
   </component>

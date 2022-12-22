@@ -11,7 +11,6 @@ public interface IMap {
 
     void removeByKey(String key);
 
-    ч
     void removeByValue(String value);
 
     String[] getAllKeys();
